@@ -1,5 +1,6 @@
 package org.example.controller;
 
+import org.example.mapper.orderMapper;
 import org.example.pojo.Order.orderData;
 import org.example.pojo.Result;
 import org.example.service.orderService;
@@ -19,6 +20,9 @@ public class orderController {
     @Autowired
     private orderService orderservice;
 
+    @Autowired
+    private orderMapper ordermapper;
+
     @GetMapping("/queryIdentify")
     public Result queryIdentify(@RequestParam("identify") String identify) {
         System.out.print(identify);
@@ -32,4 +36,11 @@ public class orderController {
         List<orderData> od = orderservice.queryAllorder();
         return Result.success(od);
     }
+
+    @GetMapping("/queryorder/type")
+    private Result queryorderType(@RequestParam("type") Integer type) {
+        List<orderData> od = orderservice.queryorderType(type);
+        return Result.success();
+    }
+
 }

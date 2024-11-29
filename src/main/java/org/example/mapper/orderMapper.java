@@ -13,4 +13,7 @@ public interface orderMapper {
 
     @Select("select * from fa_order")
     List<orderData> queryAllorder();
+
+    @Select("select * from fa_order where type = #{type}")
+    List<orderData> queryorderType(Integer type);
 }

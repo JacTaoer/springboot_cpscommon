@@ -9,4 +9,6 @@ public interface orderService {
     List<orderData> queryIdentify(String identify);
 
     List<orderData> queryAllorder();
+
+    List<orderData> queryorderType(Integer type);
 }

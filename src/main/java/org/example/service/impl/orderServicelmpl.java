@@ -25,4 +25,10 @@ public class orderServicelmpl implements orderService {
         List<orderData> od = ordermapper.queryAllorder();
         return od;
     }
+
+    @Override
+    public List<orderData> queryorderType(Integer type) {
+        List<orderData> od = ordermapper.queryorderType(type);
+        return od;
+    }
 }
