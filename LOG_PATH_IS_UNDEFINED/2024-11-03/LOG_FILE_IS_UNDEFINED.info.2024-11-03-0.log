@@ -1,0 +1,587 @@
+2024-11-03 00:01:06.991 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 00:01:07.089 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 17376 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 00:01:07.091 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 00:01:08.797 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 00:01:08.804 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 00:01:08.903 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 63 ms. Found 0 Redis repository interfaces.
+2024-11-03 00:01:10.391 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 00:01:10.409 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 00:01:10.414 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 00:01:10.415 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 00:01:10.967 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 00:01:10.967 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3793 ms
+2024-11-03 00:01:16.828 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-02T16:01:16.828164900Z
+2024-11-03 00:01:17.213 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-02T16:01:17.213963800Z
+2024-11-03 00:01:18.474 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 00:01:18.539 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 00:01:18.588 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 12.427 seconds (process running for 13.696)
+2024-11-03 00:02:34.981 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 00:02:35.051 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 17424 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 00:02:35.052 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 00:02:36.597 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 00:02:36.605 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 00:02:36.695 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 55 ms. Found 0 Redis repository interfaces.
+2024-11-03 00:02:38.344 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 00:02:38.358 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 00:02:38.361 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 00:02:38.361 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 00:02:38.568 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 00:02:38.569 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3457 ms
+2024-11-03 00:02:42.519 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-02T16:02:42.519589Z
+2024-11-03 00:02:42.891 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-02T16:02:42.891974900Z
+2024-11-03 00:02:43.393 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 00:02:43.433 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 00:02:43.445 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 9.209 seconds (process running for 10.178)
+2024-11-03 00:03:16.231 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 00:03:16.232 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 00:03:16.234 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 00:03:16.385 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 00:03:16.898 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4eb13c39
+2024-11-03 00:03:16.901 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 02:49:04.567 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 02:49:04.583 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:01:31.734 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:01:31.820 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 3096 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:01:31.821 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:01:33.517 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:01:33.522 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:01:33.626 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 54 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:01:35.336 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:01:35.353 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:01:35.358 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:01:35.358 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:01:35.669 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:01:35.670 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3770 ms
+2024-11-03 16:01:38.513 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:01:38.512017600Z
+2024-11-03 16:01:38.894 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:01:38.894071700Z
+2024-11-03 16:01:39.831 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:01:39.871 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:01:39.890 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 9.288 seconds (process running for 10.616)
+2024-11-03 16:01:59.327 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:01:59.328 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:01:59.330 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:01:59.501 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:02:00.266 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b287312
+2024-11-03 16:02:00.273 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:05:06.526 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:05:06.541 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:05:16.307 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:05:16.366 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 9340 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:05:16.368 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:05:17.722 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:05:17.727 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:05:17.802 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 49 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:05:19.129 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:05:19.147 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:05:19.151 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:05:19.152 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:05:19.472 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:05:19.472 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3047 ms
+2024-11-03 16:05:22.389 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:05:22.389539300Z
+2024-11-03 16:05:23.050 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:05:23.050105300Z
+2024-11-03 16:05:23.450 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:05:23.493 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:05:23.509 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 7.931 seconds (process running for 9.147)
+2024-11-03 16:05:45.080 INFO  [http-nio-8080-exec-3] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:05:45.081 INFO  [http-nio-8080-exec-3] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:05:45.083 INFO  [http-nio-8080-exec-3] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:05:45.364 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:05:46.083 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@77a2741d
+2024-11-03 16:05:46.089 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:13:45.303 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:13:45.309 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:13:52.500 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:13:52.565 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 2624 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:13:52.566 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:13:53.795 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:13:53.800 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:13:53.866 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:13:55.070 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:13:55.084 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:13:55.088 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:13:55.088 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:13:55.306 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:13:55.306 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2681 ms
+2024-11-03 16:13:57.337 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:13:57.337179600Z
+2024-11-03 16:13:57.694 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:13:57.694670300Z
+2024-11-03 16:13:58.176 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:13:58.206 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:13:58.218 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.365 seconds (process running for 7.274)
+2024-11-03 16:14:03.449 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:14:03.450 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:14:03.451 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:14:03.606 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:14:03.966 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f77f472
+2024-11-03 16:14:03.970 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:41:56.769 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:41:56.777 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:42:11.544 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:42:11.621 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 3820 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:42:11.623 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:42:13.334 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:42:13.339 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:42:13.424 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 57 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:42:14.900 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:42:14.917 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:42:14.921 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:42:14.921 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:42:15.279 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:42:15.279 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3560 ms
+2024-11-03 16:42:17.745 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:42:17.745702200Z
+2024-11-03 16:42:18.118 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:42:18.118633800Z
+2024-11-03 16:42:18.781 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:42:18.831 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:42:18.846 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 8.123 seconds (process running for 9.306)
+2024-11-03 16:42:22.541 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:42:22.542 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:42:22.544 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-11-03 16:42:22.722 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:42:23.157 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f5b5019
+2024-11-03 16:42:23.160 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:44:48.725 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:44:48.735 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:44:56.027 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:44:56.085 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 7076 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:44:56.087 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:44:57.633 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:44:57.638 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:44:57.719 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:44:58.839 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:44:58.856 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:44:58.860 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:44:58.860 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:44:59.143 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:44:59.143 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2991 ms
+2024-11-03 16:45:01.414 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:45:01.414887300Z
+2024-11-03 16:45:01.798 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:45:01.798861600Z
+2024-11-03 16:45:02.655 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:45:02.699 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:45:02.716 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 7.357 seconds (process running for 8.253)
+2024-11-03 16:45:08.160 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:45:08.160 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:45:08.163 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:45:08.452 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:45:08.902 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45cd804a
+2024-11-03 16:45:08.906 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:52:21.429 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:52:21.438 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:52:30.904 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:52:31.008 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 16040 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:52:31.011 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:52:33.393 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:52:33.399 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:52:33.495 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 63 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:52:35.310 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:52:35.328 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:52:35.334 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:52:35.334 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:52:35.718 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:52:35.719 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4585 ms
+2024-11-03 16:52:38.534 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:52:38.534417900Z
+2024-11-03 16:52:39.236 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:52:39.236865300Z
+2024-11-03 16:52:39.797 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:52:39.844 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:52:39.861 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 9.832 seconds (process running for 11.28)
+2024-11-03 16:54:05.522 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:54:05.522 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:54:05.524 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:54:07.707 INFO  [ForkJoinPool.commonPool-worker-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:54:08.079 INFO  [ForkJoinPool.commonPool-worker-2] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d472e64
+2024-11-03 16:54:08.081 INFO  [ForkJoinPool.commonPool-worker-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 16:58:00.873 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 16:58:00.889 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 16:58:06.430 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:58:06.516 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 18056 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:58:06.518 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:58:08.549 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:58:08.556 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:58:08.659 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 64 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:58:10.574 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:58:10.589 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:58:10.593 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:58:10.593 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:58:10.926 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:58:10.927 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4322 ms
+2024-11-03 16:58:13.474 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:58:13.474200500Z
+2024-11-03 16:58:14.136 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:58:14.136010600Z
+2024-11-03 16:58:14.289 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:58:14.331 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:58:14.348 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 8.688 seconds (process running for 9.995)
+2024-11-03 16:58:27.574 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:58:27.575 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:58:27.576 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:59:16.712 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 16:59:16.778 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 15008 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 16:59:16.779 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 16:59:17.963 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 16:59:17.967 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 16:59:18.027 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 0 Redis repository interfaces.
+2024-11-03 16:59:19.074 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 16:59:19.088 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:59:19.091 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 16:59:19.091 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 16:59:19.384 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 16:59:19.385 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2548 ms
+2024-11-03 16:59:21.569 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T08:59:21.569419100Z
+2024-11-03 16:59:21.980 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T08:59:21.980315700Z
+2024-11-03 16:59:22.505 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 16:59:22.544 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 16:59:22.558 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.434 seconds (process running for 7.278)
+2024-11-03 16:59:25.000 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 16:59:25.001 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 16:59:25.002 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 16:59:25.178 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 16:59:25.558 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5fe489b1
+2024-11-03 16:59:25.562 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:01:11.670 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:01:11.688 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:01:18.930 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:01:19.007 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 9156 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:01:19.008 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:01:20.238 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:01:20.242 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:01:20.312 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:01:21.464 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:01:21.479 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:01:21.483 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:01:21.483 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:01:21.773 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:01:21.773 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2690 ms
+2024-11-03 17:01:23.790 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:01:23.790318700Z
+2024-11-03 17:01:24.145 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:01:24.145369800Z
+2024-11-03 17:01:24.712 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:01:24.752 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:01:24.765 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.434 seconds (process running for 7.345)
+2024-11-03 17:01:29.304 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:01:29.304 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:01:29.307 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-11-03 17:01:29.544 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:01:29.951 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@100a47f6
+2024-11-03 17:01:29.953 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:07:32.843 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:07:32.850 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:07:40.082 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:07:40.140 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 3300 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:07:40.141 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:07:41.483 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:07:41.486 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:07:41.552 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:07:42.651 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:07:42.664 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:07:42.666 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:07:42.666 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:07:42.899 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:07:42.900 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2694 ms
+2024-11-03 17:07:45.257 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:07:45.257164700Z
+2024-11-03 17:07:45.586 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:07:45.586886100Z
+2024-11-03 17:07:46.189 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:07:46.232 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:07:46.248 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.848 seconds (process running for 7.696)
+2024-11-03 17:07:56.619 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:07:56.620 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:07:56.624 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-11-03 17:07:56.863 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:07:57.345 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60220ae0
+2024-11-03 17:07:57.349 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:11:28.419 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:11:28.430 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:11:35.065 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:11:35.130 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 9824 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:11:35.131 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:11:36.357 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:11:36.362 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:11:36.428 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:11:37.486 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:11:37.502 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:11:37.506 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:11:37.507 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:11:37.735 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:11:37.735 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2540 ms
+2024-11-03 17:11:39.369 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:11:39.369516900Z
+2024-11-03 17:11:39.731 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:11:39.731606300Z
+2024-11-03 17:11:40.164 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:11:40.197 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:11:40.210 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 5.774 seconds (process running for 6.598)
+2024-11-03 17:11:43.570 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:11:43.570 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:11:43.571 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:11:43.738 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:11:44.149 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a40b081
+2024-11-03 17:11:44.152 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:12:25.442 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:12:25.454 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:12:32.284 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:12:32.354 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 3248 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:12:32.356 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:12:33.588 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:12:33.593 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:12:33.659 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:12:34.772 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:12:34.783 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:12:34.786 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:12:34.786 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:12:34.993 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:12:34.994 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2574 ms
+2024-11-03 17:12:36.628 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:12:36.628408200Z
+2024-11-03 17:12:37.053 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:12:37.053617600Z
+2024-11-03 17:12:37.431 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:12:37.459 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:12:37.471 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 5.802 seconds (process running for 6.615)
+2024-11-03 17:12:40.531 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:12:40.531 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:12:40.532 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:12:40.733 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:12:41.186 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5201b547
+2024-11-03 17:12:41.202 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:13:00.193 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:13:00.207 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:13:06.997 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:13:07.084 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 5140 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:13:07.086 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:13:08.653 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:13:08.658 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:13:08.734 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 49 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:13:10.041 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:13:10.058 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:13:10.061 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:13:10.061 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:13:10.348 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:13:10.348 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3170 ms
+2024-11-03 17:13:12.657 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:13:12.657953500Z
+2024-11-03 17:13:13.351 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:13:13.351783300Z
+2024-11-03 17:13:13.533 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:13:13.576 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:13:13.593 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 7.361 seconds (process running for 8.18)
+2024-11-03 17:13:21.861 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:13:21.863 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:13:21.865 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-11-03 17:13:22.230 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:13:22.644 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28ac52f2
+2024-11-03 17:13:22.647 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:16:50.924 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:16:50.932 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:16:58.268 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:16:58.331 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 11076 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:16:58.332 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:16:59.552 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:16:59.555 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:16:59.613 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:17:00.789 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:17:00.801 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:17:00.804 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:17:00.805 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:17:01.028 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:17:01.029 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2636 ms
+2024-11-03 17:17:04.142 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:17:04.142909400Z
+2024-11-03 17:17:04.799 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:17:04.799125900Z
+2024-11-03 17:17:05.116 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:17:05.163 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:17:05.180 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 7.541 seconds (process running for 8.402)
+2024-11-03 17:17:08.061 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:17:08.061 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:17:08.063 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:17:08.323 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:17:08.980 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@615358e4
+2024-11-03 17:17:08.984 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:18:39.165 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:18:39.180 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:18:45.915 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:18:45.992 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 10008 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:18:45.993 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:18:47.287 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:18:47.292 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:18:47.353 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:18:48.629 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:18:48.642 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:18:48.645 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:18:48.645 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:18:48.875 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:18:48.875 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2819 ms
+2024-11-03 17:18:51.113 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:18:51.113854500Z
+2024-11-03 17:18:51.935 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:18:51.975 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:18:51.988 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.694 seconds (process running for 7.502)
+2024-11-03 17:18:52.201 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:18:52.201283400Z
+2024-11-03 17:18:54.559 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:18:54.559 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:18:54.560 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:18:54.808 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:18:55.436 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25e1aa8a
+2024-11-03 17:18:55.440 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:22:23.428 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:22:23.437 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:22:30.272 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:22:30.336 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 9984 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:22:30.337 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:22:31.638 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:22:31.642 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:22:31.710 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:22:32.854 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:22:32.865 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:22:32.868 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:22:32.869 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:22:33.104 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:22:33.105 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2707 ms
+2024-11-03 17:22:34.786 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:22:34.786298400Z
+2024-11-03 17:22:35.152 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:22:35.152767200Z
+2024-11-03 17:22:35.675 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:22:35.704 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:22:35.713 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.049 seconds (process running for 6.9)
+2024-11-03 17:22:37.354 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:22:37.354 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:22:37.356 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:22:37.518 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:22:37.912 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a280ccf
+2024-11-03 17:22:37.915 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:23:22.479 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:23:22.493 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:23:29.129 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:23:29.191 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 12072 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:23:29.192 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:23:30.402 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:23:30.406 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:23:30.463 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:23:31.549 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:23:31.561 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:23:31.563 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:23:31.563 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:23:31.781 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:23:31.782 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2526 ms
+2024-11-03 17:23:33.994 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:23:33.994701500Z
+2024-11-03 17:23:34.682 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:23:34.682727300Z
+2024-11-03 17:23:34.737 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:23:34.769 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:23:34.779 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.272 seconds (process running for 7.079)
+2024-11-03 17:23:38.231 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:23:38.232 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:23:38.233 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:23:38.428 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:23:38.850 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fcb150c
+2024-11-03 17:23:38.854 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:24:49.462 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:24:49.474 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:24:56.193 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:24:56.257 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 13932 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:24:56.258 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:24:57.550 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:24:57.554 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:24:57.612 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:24:58.690 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:24:58.700 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:24:58.702 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:24:58.702 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:24:58.906 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:24:58.907 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2576 ms
+2024-11-03 17:25:00.828 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:25:00.828715Z
+2024-11-03 17:25:01.241 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:25:01.241657500Z
+2024-11-03 17:25:01.704 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:25:01.749 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:25:01.763 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.202 seconds (process running for 7.017)
+2024-11-03 17:25:05.595 INFO  [http-nio-8080-exec-8] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:25:05.595 INFO  [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:25:05.597 INFO  [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:25:05.819 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:25:06.286 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7fd7c723
+2024-11-03 17:25:06.289 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:32:03.330 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:32:03.339 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:32:10.157 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:32:10.219 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 17928 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:32:10.221 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:32:11.402 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:32:11.406 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:32:11.469 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:32:12.616 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:32:12.630 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:32:12.633 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:32:12.634 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:32:12.844 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:32:12.845 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2562 ms
+2024-11-03 17:32:19.525 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:32:19.525035Z
+2024-11-03 17:32:20.142 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:32:20.142467500Z
+2024-11-03 17:32:20.365 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:32:20.404 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:32:20.419 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 10.879 seconds (process running for 11.699)
+2024-11-03 17:32:20.972 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:32:20.973 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:32:20.974 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:32:21.210 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:32:21.631 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45cd804a
+2024-11-03 17:32:21.635 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:43:42.822 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:43:42.831 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 17:43:50.102 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 17:43:50.158 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 11988 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 17:43:50.159 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 17:43:51.416 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 17:43:51.420 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 17:43:51.487 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 0 Redis repository interfaces.
+2024-11-03 17:43:52.663 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 17:43:52.679 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:43:52.683 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 17:43:52.683 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 17:43:52.898 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 17:43:52.898 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2675 ms
+2024-11-03 17:43:54.715 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T09:43:54.715590Z
+2024-11-03 17:43:55.061 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T09:43:55.061061300Z
+2024-11-03 17:43:55.696 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 17:43:55.731 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 17:43:55.744 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.309 seconds (process running for 7.189)
+2024-11-03 17:43:56.906 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 17:43:56.906 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 17:43:56.908 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 17:43:57.119 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 17:43:57.560 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a280ccf
+2024-11-03 17:43:57.564 INFO  [ForkJoinPool.commonPool-worker-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 17:45:20.944 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 17:45:20.958 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 18:52:30.203 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 18:52:30.281 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 16712 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 18:52:30.282 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 18:52:31.539 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 18:52:31.543 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 18:52:31.623 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 0 Redis repository interfaces.
+2024-11-03 18:52:32.859 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 18:52:32.871 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 18:52:32.875 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 18:52:32.875 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 18:52:33.097 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 18:52:33.097 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2755 ms
+2024-11-03 18:52:35.288 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T10:52:35.288015300Z
+2024-11-03 18:52:35.629 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T10:52:35.629588500Z
+2024-11-03 18:52:36.149 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 18:52:36.184 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 18:52:36.196 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.686 seconds (process running for 7.535)
+2024-11-03 18:52:59.968 INFO  [http-nio-8080-exec-2] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 18:52:59.969 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 18:52:59.971 INFO  [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 18:53:00.151 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 18:53:00.605 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@39ff85e6
+2024-11-03 18:53:00.608 INFO  [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 18:54:28.908 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 18:54:28.923 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-03 18:54:57.262 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-03 18:54:57.325 INFO  [main] org.example.kaVipApplication - Starting kaVipApplication using Java 17.0.7 with PID 6512 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_express)
+2024-11-03 18:54:57.326 INFO  [main] org.example.kaVipApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-03 18:54:58.782 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-03 18:54:58.788 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-03 18:54:58.859 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 0 Redis repository interfaces.
+2024-11-03 18:55:00.017 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-03 18:55:00.033 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 18:55:00.036 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-03 18:55:00.037 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-03 18:55:00.276 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-03 18:55:00.276 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2885 ms
+2024-11-03 18:55:02.437 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-03T10:55:02.437640300Z
+2024-11-03 18:55:02.803 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-03T10:55:02.803582900Z
+2024-11-03 18:55:03.219 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 18:55:03.253 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-03 18:55:03.267 INFO  [main] org.example.kaVipApplication - Started kaVipApplication in 6.716 seconds (process running for 7.801)
+2024-11-03 18:55:14.536 INFO  [http-nio-8080-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-03 18:55:14.538 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-03 18:55:14.539 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-11-03 18:55:14.817 INFO  [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-03 18:55:15.239 INFO  [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58fea538
+2024-11-03 18:55:15.241 INFO  [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-03 23:39:58.688 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-03 23:39:58.700 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

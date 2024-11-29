@@ -1,0 +1,113 @@
+2024-11-27 11:18:53.064 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:18:53.129 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 9984 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:18:53.131 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:18:54.413 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:18:54.417 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:18:54.490 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:18:55.571 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:18:55.585 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:18:55.588 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:18:55.588 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:18:55.796 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:18:55.797 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2602 ms
+2024-11-27 11:18:56.976 INFO  [main] org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-11-27 11:18:57.062 INFO  [main] o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-27 11:21:15.794 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:21:15.859 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 11864 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:21:15.860 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:21:17.681 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:21:17.687 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:21:17.787 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 60 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:21:19.302 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:21:19.319 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:21:19.324 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:21:19.325 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:21:19.578 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:21:19.579 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3649 ms
+2024-11-27 11:21:21.688 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-27T03:21:21.688477900Z
+2024-11-27 11:21:21.939 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-27T03:21:21.939815Z
+2024-11-27 11:21:22.646 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:21:22.686 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-27 11:21:22.702 INFO  [main] org.example.cpsApplication - Started cpsApplication in 7.742 seconds (process running for 8.977)
+2024-11-27 11:24:23.126 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:24:23.185 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 17904 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:24:23.186 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:24:24.619 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:24:24.640 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:24:24.717 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:24:26.227 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:24:26.248 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:24:26.252 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:24:26.252 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:24:26.527 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:24:26.527 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3286 ms
+2024-11-27 11:24:28.178 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-27T03:24:28.178733800Z
+2024-11-27 11:24:28.448 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-27T03:24:28.448012800Z
+2024-11-27 11:24:29.435 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:24:29.479 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-27 11:24:29.499 INFO  [main] org.example.cpsApplication - Started cpsApplication in 6.977 seconds (process running for 7.724)
+2024-11-27 11:27:01.567 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:27:01.643 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 18940 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:27:01.644 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:27:03.075 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:27:03.080 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:27:03.129 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:27:04.599 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:27:04.615 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:27:04.619 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:27:04.620 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:27:04.875 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:27:04.876 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3137 ms
+2024-11-27 11:27:06.463 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Begin update Certificates.Date:2024-11-27T03:27:06.462467500Z
+2024-11-27 11:27:06.687 INFO  [scheduled_update_cert_thread] c.w.p.c.apache.httpclient.cert.CertificatesManager - Finish update Certificates.Date:2024-11-27T03:27:06.687865200Z
+2024-11-27 11:27:07.534 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:27:07.576 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-27 11:27:07.591 INFO  [main] org.example.cpsApplication - Started cpsApplication in 7.056 seconds (process running for 8.217)
+2024-11-27 11:57:27.340 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:57:27.423 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 4660 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:57:27.425 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:57:29.017 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:57:29.023 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:57:29.085 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:57:30.616 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:57:30.632 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:57:30.636 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:57:30.637 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:57:30.923 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:57:30.924 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3395 ms
+2024-11-27 11:57:31.055 INFO  [main] org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-11-27 11:57:31.167 INFO  [main] o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-27 11:59:18.929 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 11:59:18.993 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 19000 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 11:59:18.995 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 11:59:20.157 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 11:59:20.162 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 11:59:20.203 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2024-11-27 11:59:21.379 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 11:59:21.391 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:59:21.394 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 11:59:21.395 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 11:59:21.632 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 11:59:21.633 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2568 ms
+2024-11-27 11:59:23.141 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-27 11:59:23.173 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-27 11:59:23.185 INFO  [main] org.example.cpsApplication - Started cpsApplication in 4.948 seconds (process running for 5.95)
+2024-11-27 12:01:27.295 INFO  [background-preinit] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-27 12:01:27.409 INFO  [main] org.example.cpsApplication - Starting cpsApplication using Java 17.0.7 with PID 6068 (C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps\target\classes started by Taoer in C:\Users\Taoer\Desktop\vue3_admin\快递\springboot_cps)
+2024-11-27 12:01:27.412 INFO  [main] org.example.cpsApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-27 12:01:30.197 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-27 12:01:30.203 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-27 12:01:30.278 INFO  [main] o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2024-11-27 12:01:32.836 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-11-27 12:01:32.856 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-27 12:01:32.861 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-27 12:01:32.862 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2024-11-27 12:01:33.251 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-27 12:01:33.252 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5681 ms
+2024-11-27 12:01:36.040 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-27 12:01:36.100 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-27 12:01:36.132 INFO  [main] org.example.cpsApplication - Started cpsApplication in 9.96 seconds (process running for 11.685)

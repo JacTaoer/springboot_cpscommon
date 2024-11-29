@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/qq_bbddd_cn
+#    username: root
+#    password: root
+    username: qq_bbddd_cn
+    password: 436hkFzA232K1Qh3
+  data:
+    redis:
+      ## host: localhost
+      host: 127.0.0.1
+      port: 6379
+      password: 123456
+
+mybatis:
+  configuration:
+    map-underscore-to-came-case: true #开启驼峰命令和下划线命令的自动转换
+
+server:
+  tomcat:
+    connection-timeout: 10s
+  servlet:
+    session:
+      timeout: 15m
